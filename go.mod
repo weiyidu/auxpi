@@ -1,7 +1,7 @@
 module github.com/auxpi
 
 require (
-	github.com/astaxie/beego v1.11.1
+	github.com/astaxie/beego v1.12.1
 	github.com/casbin/casbin v1.7.0
 	github.com/casbin/gorm-adapter v0.0.0-20190318080705-e74a050c51a4
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
